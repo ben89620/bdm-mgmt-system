@@ -45,3 +45,8 @@ Thumbs.db
 # Misc
 *.log
 .env
+
+# Excel Files
+*.xlsx
+*.xls
+*.csv
